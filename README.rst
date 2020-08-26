@@ -34,7 +34,5 @@ E.g. ::
 	(i) We use the letter with the smallest ASCII code as the representative of a subtree;  
 	(ii) in case of ambiguity, select the two trees with the smallest representatives and when combining the two trees, the one with the smaller representative will be on the left. 
 
-* A sample input file and the corresponding output files will be given in the course moodle page soon.
-
 
 
