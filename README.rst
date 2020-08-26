@@ -7,7 +7,6 @@ In computer science and information theory, a Huffman code is a particular type 
 Details:
 -------
 
-* Name your program as “hmencoder”.
 * Usage of hmencoder ::
 
 		hmencoder [input_file]
